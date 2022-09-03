@@ -1,0 +1,1 @@
+[{"product_name":"T-Shirt","price":100,"is_available":true,"materials":["cotton"]},{"product_name":"Jacket","price":30,"is_available":true,"materials":["jeans"]},{"product_name":"Pants","price":120,"is_available":false,"materials":["cotton","jeans"]},{"product_name":"Top","price":10,"is_available":true,"materials":["cotton"]}]
